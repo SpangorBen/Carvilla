@@ -342,7 +342,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #b1cc35;}
     padding-bottom: 26.3rem;
     height: fit-content;
     background-size: cover;
-    background-image: url(assets/erik-odiin-DH_IAgZkJP4-unsplash.jpg);
+    background-image: url(../erik-odiin-DH_IAgZkJP4-unsplash.jpg);
     background-position:bottom;
 }
 
@@ -432,7 +432,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #b1cc35;}
 --------------------------------------*/
 .featured-cars{
     padding:112px 0 120px;
-    background-image: url(assets/william-daigneault-Cd84YdL9px8-unsplash.jpg);
+    background-image: url(../william-daigneault-Cd84YdL9px8-unsplash.jpg);
     background-size: cover;
     background-position:top;
 }
