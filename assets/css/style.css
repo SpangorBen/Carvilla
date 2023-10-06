@@ -215,7 +215,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #b1cc35;}
 --------------------------------------*/
 .welcome-hero {
     position: relative;
-    background:url(/carvilla-v1.0/assets/guogete-bZ3UfXMD9HE-unsplash.jpg)no-repeat;
+    background:url(../guogete-bZ3UfXMD9HE-unsplash.jpg)no-repeat;
     background-position: center;
     background-size: cover;
     z-index: 1;
